@@ -4,4 +4,4 @@
     )
 }}
 
-select * from raw.globalmart.customer
+select * from raw.globalmart.customers
